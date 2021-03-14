@@ -25,7 +25,8 @@ Currency Exchange Service	8000, 8001, 8002, ..
 Currency Conversion Service	8100, 8101, 8102, ...
 Netflix Eureka Naming Server	8761
 Netflix Zuul API Gateway Server	8765
-Zipkin Distributed Tracing Server	9411
+Zipkin Distributed Tracing Server
+
 URLs
 Application	URL
 Limits Service	http://localhost:8080/limits http://localhost:8080/actuator/refresh (POST)
