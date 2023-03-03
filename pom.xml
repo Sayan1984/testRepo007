@@ -62,10 +62,9 @@
 			<scope>test</scope>
 		</dependency>
 		<dependency>
-	<groupId>com.akhilmovva.microservices</groupId>
-	<artifactId>currency-conversion-service</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
-	<name>currency-conversion-service</name>
+	                <groupId>com.akhilmovva.microservices</groupId>
+	                <artifactId>currency-conversion-service</artifactId>
+	                <name>currency-conversion-service</name>
 		</dependency>
 	</dependencies>
 	<dependencyManagement>
