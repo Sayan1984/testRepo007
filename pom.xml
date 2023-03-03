@@ -61,11 +61,6 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
-		<dependency>
-	                <groupId>com.akhilmovva.microservices</groupId>
-	                <artifactId>currency-conversion-service</artifactId>
-	                <name>currency-conversion-service</name>
-		</dependency>
 	</dependencies>
 	<dependencyManagement>
 		<dependencies>
